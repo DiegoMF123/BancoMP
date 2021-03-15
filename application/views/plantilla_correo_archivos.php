@@ -50,7 +50,7 @@
                      <br>
                     <br>
 
-                     <b><p>Gracias por utilizar la plataforma....</p></b>
+                     <b><p>Gracias por utilizarrt la plataforma....</p></b>
 
                <b><p>Atentamente, el equipo de Banco Mi Pistio.</p></b>
             </td>
